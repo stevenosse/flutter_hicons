@@ -1,39 +1,42 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# flutter_hicons
+A flutter widget for rating user's mood
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+<div>
+    <a title="pub.dev" href="https://pub.dartlang.org/packages/flutter_hicons" >
+      <img src="https://img.shields.io/pub/v/flutter_hicons.svg?style=flat-square&include_prereleases&color=00C853" />
+    </a>
+    <a title="GitHub License" href="https://github.com/stevenosse/flutter_hicons/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/stevenosse/flutter_hicons?style=flat-square&color=f12253" />
+    </a>
+  </div>
+  <br/>
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+![preview](https://github.com/stevenosse/flutter_hicons/blob/main/cover.png?raw=true)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
 
-## Features
+## 🚀 Getting started   
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Install flutter_hicons from pub:
+```shell
+$ flutter pub add flutter_hicons
+```
 
-## Getting started
+## 📔 Usage
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+Import flutter_emoji_feedback :
+```dart
+import 'package:flutter_emoji_feedback/flutter_emoji_feedback.dart';
+```
 
 ```dart
-const like = 'sample';
+const Icon(Hicons.heart_2)
 ```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+- [Figma Community pack](https://www.figma.com/file/VgR1krBeTjRtV0H422LfiL/Hicon-(Free-icon-pack)---%2B2700-Editable-icons-(Community)?t=wlg5kD5uuH7Y4V8L-0)
+
+## Credits
+- Donate to designer:
+    - [HadiSharifani Gumroad](https://HadiSharifani.gumroad.com)
+    - [zarinp.al/280351](https://zarinp.al/280351)
