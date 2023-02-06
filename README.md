@@ -23,13 +23,13 @@ $ flutter pub add flutter_hicons
 
 ## 📔 Usage
 
-Import flutter_emoji_feedback :
+Import `flutter_hicons` :
 ```dart
-import 'package:flutter_emoji_feedback/flutter_emoji_feedback.dart';
+import 'package:flutter_hicons/flutter_hicons.dart';
 ```
 
 ```dart
-const Icon(Hicons.heart_2)
+const Icon(Hicons.heart_2);
 ```
 
 ## Additional information
