@@ -36,18 +36,19 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Center(
+      body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Wrap(
               runSpacing: 10.0,
               spacing: 10.0,
-              children: const [
-                Icon(Hicons.activity_1),
-                Icon(Hicons.heart_2),
-                Icon(Hicons.user_tag),
-                Icon(Hicons.password_2),
+              children: [
+                Icon(Hicons.activity_1_light_outline),
+                Icon(Hicons.add_circle_bold),
+                Icon(Hicons.heart_1_light_outline),
+                Icon(Hicons.user_tag_light_outline),
+                Icon(Hicons.password_2_light_outline),
               ],
             ),
           ],

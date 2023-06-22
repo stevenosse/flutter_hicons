@@ -1,5 +1,5 @@
 # flutter_hicons
-A flutter widget for rating user's mood
+Hicon collection
 
 <div>
     <a title="pub.dev" href="https://pub.dartlang.org/packages/flutter_hicons" >
@@ -40,3 +40,7 @@ const Icon(Hicons.heart_2);
 - Donate to designer:
     - [HadiSharifani Gumroad](https://HadiSharifani.gumroad.com)
     - [zarinp.al/280351](https://zarinp.al/280351)
+
+- Donate to developer  
+<a href="https://www.buymeacoffee.com/iamsnosse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  

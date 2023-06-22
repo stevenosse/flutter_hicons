@@ -1,6 +1,6 @@
 name: flutter_hicons
 description: Hicons is a collection of +2700 beautiful icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and usability.
-version: 0.0.1
+version: 0.1.0
 repository: https://github.com/stevenosse/flutter_hicons
 
 environment:
