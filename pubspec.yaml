@@ -1,11 +1,11 @@
 name: flutter_hicons
 description: Hicons is a collection of +2700 beautiful icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and usability.
-version: 0.1.0
+version: 1.0.0
 repository: https://github.com/stevenosse/flutter_hicons
 
 environment:
-  sdk: '>=2.19.0 <3.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.24.0"
 
 dependencies:
   flutter:
@@ -15,13 +15,14 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  icon_font_generator: ^4.0.0
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter packages.
 flutter:
   fonts:
     - family: Hicons
       fonts:
-        - asset: fonts/hicons.ttf
+        - asset: fonts/hicons.otf
+
+screenshots:
+  - description: 'Hicons cover preview'
+    path: cover.png

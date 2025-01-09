@@ -1,6 +1,4 @@
 # flutter_hicons
-Hicon collection
-
 <div>
     <a title="pub.dev" href="https://pub.dartlang.org/packages/flutter_hicons" >
       <img src="https://img.shields.io/pub/v/flutter_hicons.svg?style=flat-square&include_prereleases&color=00C853" />
@@ -36,11 +34,12 @@ const Icon(Hicons.heart_2);
 
 - [Figma Community pack](https://www.figma.com/file/VgR1krBeTjRtV0H422LfiL/Hicon-(Free-icon-pack)---%2B2700-Editable-icons-(Community)?t=wlg5kD5uuH7Y4V8L-0)
 
-## Credits
+## Sponsors
 - Donate to designer:
     - [HadiSharifani Gumroad](https://HadiSharifani.gumroad.com)
     - [zarinp.al/280351](https://zarinp.al/280351)
 
-- Donate to developer  
-<a href="https://www.buymeacoffee.com/iamsnosse" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  
+- Donate to developer :  
+    - [Sponsor on GitHub](https://github.com/sponsors/stevenosse) or 
+    - [Buy me a coffee](https://www.buymeacoffee.com/iamsnosse)
+
